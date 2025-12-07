@@ -6,7 +6,7 @@
 script="$0"
 properties() { '
 kernel.string=perf⁺ kernel redmi 4x a.k.a santoni
-do.devicecheck=1
+do.devicecheck=0
 do.modules=0
 do.systemless=1
 do.cleanup=1
