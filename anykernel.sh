@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Loneliness kernel mi8937
+kernel.string=kernel for Xiaomi Redmi 4X a.k.a santoni
 do.devicecheck=0
 do.modules=0
 do.systemless=1
