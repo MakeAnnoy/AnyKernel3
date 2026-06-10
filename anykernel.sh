@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Luuvy kernel from Zamrud Khatulistiwa
+kernel.string=Loneliness kernel mi8937
 do.devicecheck=0
 do.modules=0
 do.systemless=1
